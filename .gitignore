@@ -1,0 +1,4 @@
+# Ignore generated data and secrets
+*.json
+API Keys.txt
+.env
