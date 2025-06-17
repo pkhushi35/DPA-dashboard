@@ -18,3 +18,4 @@ def fetch_otx_data():
         print("Error:", response.status_code)
 
 fetch_otx_data()
+
